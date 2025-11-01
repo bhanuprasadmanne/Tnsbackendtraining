@@ -3,7 +3,9 @@ public class Car{
     String color;
     String model;
     String type;
+    String name;
     void startEngine(){
         System.out.println("Engine started");
     }
+
 }
